@@ -82,7 +82,7 @@ export default {
 
 		onwarn,
 	},
-
+/*
 	serviceworker: {
 		input: config.serviceworker.input(),
 		output: config.serviceworker.output(),
@@ -97,5 +97,5 @@ export default {
 		],
 
 		onwarn,
-	}
+	}*/
 };
